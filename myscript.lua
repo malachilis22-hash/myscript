@@ -1,0 +1,1 @@
+local function a() end local function b() end local function c() end local function d() end local function e() end a() b() c() d() e()
